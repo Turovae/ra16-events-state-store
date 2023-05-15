@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6kpk2btcdg4i5a06?svg=true)](https://ci.appveyor.com/project/Turovae/ra16-events-state-store)
+
+---
+
 Расположение товаров
 ===
 
