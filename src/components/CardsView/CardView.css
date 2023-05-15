@@ -1,0 +1,6 @@
+.view-cards {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  margin-right: -20px;
+}

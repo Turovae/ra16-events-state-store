@@ -1,0 +1,54 @@
+.view-list__item {
+  height: 50px;
+  display: flex;
+}
+
+.view-list__item:hover {
+  background-color: #dadada;
+}
+
+.item__column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item__img {
+  width: 80px;
+  background-size: cover;
+  background-position: bottom 20% left 0;
+  flex-grow: 0;
+}
+
+.item__name {
+  flex-grow: 1;
+  text-transform: uppercase;
+  width: 300px;
+}
+
+.item__color {
+  flex-grow: 1;
+  width: 100px;
+}
+
+.item__price {
+  flex-grow: 1;
+}
+
+.item__select {
+  width: 150px;
+  flex-grow: 0;
+}
+
+.item__add {
+  text-transform: uppercase;
+  border: 1px solid green;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: green;
+  cursor: pointer;
+}
+
+.item__add:hover {
+  background-color: #cfcfcf;
+}

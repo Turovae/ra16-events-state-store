@@ -1,0 +1,38 @@
+.shop-cards__card {
+  width: 200px;
+  box-shadow: 0 4px 10px 0px rgba(128, 128, 128, 0.8);
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.card__name {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.card__color {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.card__img {
+  width: 100%;
+  height: 70px;
+  background-size: cover;
+  background-position: bottom 36% left 0;
+  margin-bottom: 15px;
+}
+
+.card__cart-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}
+
+.item__add.small-button {
+  font-size: 10px;
+}

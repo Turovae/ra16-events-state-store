@@ -1,0 +1,12 @@
+.store-menu {
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.store-menu__button {
+  font-size: 32px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
